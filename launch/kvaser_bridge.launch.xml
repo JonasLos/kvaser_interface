@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <launch>
-  <arg name="hardware_id" default="12345" />
+  <arg name="hardware_id" default="94492" />
   <arg name="circuit_id" default="0" />
   <arg name="bit_rate" default="500000" />
 
